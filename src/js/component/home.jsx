@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '/workspace/react-hello/src/styles/index.css';
+import '/./src/styles/index.css';
 import { InputTask } from './InputTask.jsx';
 import { TaskList } from './TaskList.jsx';
 
